@@ -1,4 +1,4 @@
-(footprint "ADAFRUIT-QTPY-RP2040-SMD"
+(footprint "Adafruit_QtPy_RP2040_SMD"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			(justify left bottom)
 		)
 	)
-	(property "Value" "ADAFRUIT-QTPY-RP2040-SMD"
+	(property "Value" "Adafruit_QtPy_RP2040_SMD"
 		(at 8.89 10.16 0)
 		(layer "F.Fab")
 		(hide yes)
